@@ -87,8 +87,8 @@ Hardware/
 
 - [x] Schematic completed
 - [x] PCB component placement
-- [ ] PCB routing
-- [ ] Design Rule Check (DRC)
+- [x]  PCB routing
+- [x]  Design Rule Check (DRC)
 - [ ] Prototype manufacturing
 - [ ] Firmware development
 
