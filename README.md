@@ -70,30 +70,6 @@ The board integrates power regulation, programming interface and environmental s
 
 ---
 
-## Repository Structure
-
-```
-Hardware/
-├── PCB/
-├── Schematic/
-└── Libraries/
-```
-
----
-
-## Current Status
-
-🚧 Work in Progress
-
-- [x] Schematic completed
-- [x] PCB component placement
-- [x]  PCB routing
-- [x]  Design Rule Check (DRC)
-- [ ] Prototype manufacturing
-- [ ] Firmware development
-
----
-
 ## Author
 
 Junior Kabulo
